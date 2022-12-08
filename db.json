@@ -1,13 +1,5 @@
 {
     "user": [
-      {
-        "id" :  1,
-        "username" : "shashank",
-        "avatar" : "https://i.pravatar.cc/150?img=23",
-        "email" : "abc@gmail.com",
-        "password" : 1234,
-        "name" : "Shashank Sinha"
-
-      }
+ 
       ]
     }
